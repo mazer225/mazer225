@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mazer225
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-End Fraeworks
+- 🌱 I’m currently learning Back-End Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
