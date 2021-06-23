@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mazer225
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-End Frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Goutham
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Web Dev Projects
+- 📫 How to reach me @mazer225
 
 <!---
 mazer225/mazer225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
